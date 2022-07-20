@@ -1,0 +1,15 @@
+faiss==1.5.3
+faiss_gpu==1.6.5
+h5py==2.10.0
+IQA_pytorch==0.1
+matplotlib==3.4.2
+numpy==1.19.2
+Pillow==9.0.1
+piq==0.6.0
+PyYAML==6.0
+rich==12.0.0
+scikit_learn==1.0.2
+thop==0.0.5.post2203051004
+torch==1.7.0
+torchvision==0.8.1
+tqdm==4.54.1
