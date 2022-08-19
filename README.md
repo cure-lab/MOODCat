@@ -1,3 +1,7 @@
+## Pretrained models
+The pretrained models of MOODCat (cifar10 and cifar100) can be obtained from the following link:
+https://drive.google.com/drive/folders/1gQjsiCS7DZ8H8KwsTL_I-jTQes2Ha7b9?usp=sharing
+
 ## Data Preparation
 Our benchmark settings follow the SCOOD (ICCV'21), please prepare all their
 dataset. We assume the data are placed in
